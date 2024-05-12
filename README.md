@@ -1,2 +1,0 @@
-# myproject
-this repo
